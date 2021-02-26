@@ -2,7 +2,7 @@
 
 - 🔭 Je travaille sur une application mobile, un site web et une API multitâches.
 - :mortar_board: Étudiante à Epitech en 3e année.
-- 🌱 Acctuellement j'apprends le React.js
+- 🌱 Actuellement j'apprends le React.js
 - :bust_in_silhouette: Je suis travailleuse, passionnée par mon travail, curieuse, organisée et perfectionniste.
 - :briefcase: Je cherche un stage de 4 à 6 mois à partir du 29 mars.
 - 📫 Comment me contacter : 
