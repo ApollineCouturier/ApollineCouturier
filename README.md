@@ -1,6 +1,6 @@
 ### Bonjour👋
 
-- 🔭 Je travail sur une application mobile, un site web et une API multitâches.
+- 🔭 Je travail sur une application mobile, un site web et une API multitâche.
 - :mortar_board: Étudiante à Epitech en 3e année.
 - 🌱 Je suis en train d'apprendre le React.js
 - :bust_in_silhouette: Je suis travailleuse, passionnée par mon travail, curieuse, organisé et perfectionniste.
