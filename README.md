@@ -11,7 +11,7 @@ Téléphone: 06 59 28 13 16
 
 Email: apolline.couturier-gauducheau@epitech.eu
 
-Linkdin: https://www.linkedin.com/in/apolline-couturier-gauducheau-298572180/
+Linkedin: https://www.linkedin.com/in/apolline-couturier-gauducheau-298572180/
 
 Instagram: https://www.instagram.com/apollinecgdev/
 
