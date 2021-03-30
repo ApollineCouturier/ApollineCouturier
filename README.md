@@ -2,6 +2,7 @@
 
 
 ![profile count](https://komarev.com/ghpvc/?username=ApollineCouturier&color=red)&nbsp;
+<img alt="SymfonyInsight Stars" src="https://img.shields.io/symfony/i/stars/15c5c748-f8d8-4b56-b536-a29a151aac6c?style=social">
 
 - 🔭 Je travaille sur une application mobile, un site web et une API multitâches.
 - :mortar_board: Étudiante à Epitech en 3e année.
