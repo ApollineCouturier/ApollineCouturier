@@ -1,5 +1,6 @@
 ### Bonjour👋
 
+![Visitor Count](https://profile-counter.glitch.me/ApollineCouturier/count.svg)
 
 ![profile count](https://komarev.com/ghpvc/?username=ApollineCouturier&color=red)&nbsp;
 
