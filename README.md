@@ -6,7 +6,7 @@
 - :mortar_board: Étudiante à Epitech en 3e année.
 - 🌱 Actuellement j'apprends le React.js
 - :bust_in_silhouette: Je suis travailleuse, passionnée par mon travail, curieuse, organisée et perfectionniste.
-- :briefcase: Je cherche un stage de 4 à 5 mois à partir du 29 mars.
+- :briefcase: Je cherche un stage de 3 à 4 mois à partir du 29 mars.
 
 ### 🛠 &nbsp;Compétences
 
