@@ -2,7 +2,7 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=ApollineCouturier&color=red&label=Vues+du+profil)&nbsp;
 
-<a href="http://apollinecouturiergauducheauportfolio.fr/"><img alt="web" src="https://github.com/ApollineCouturier/ApollineCouturier/blob/main/web.png" />Mon Site Web</a> &nbsp;
+<a href="http://apollinecouturiergauducheauportfolio.fr/"><img alt="web" src="https://github.com/ApollineCouturier/ApollineCouturier/blob/main/web.png" /> Mon Site Web</a> &nbsp;
 
 - 🔭 Je travaille sur une application mobile, un site web et une API multitâches.
 - :mortar_board: Étudiante à Epitech en 3e année.
