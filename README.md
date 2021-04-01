@@ -3,7 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=ApollineCouturier&color=red&label=Vues+du+profil)&nbsp;
 
 
-[![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](http://apollinecouturiergauducheauportfolio.fr/)
+[![Site Web](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](http://apollinecouturiergauducheauportfolio.fr/)
 
 - 🔭 Je travaille sur une application mobile, un site web et une API multitâches.
 - :mortar_board: Étudiante à Epitech en 3e année.
